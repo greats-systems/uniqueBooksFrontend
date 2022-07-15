@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/application/serviceFees/index.js"],"names":["index"],"mappings":"uIAAA,uBAQeA,UAND,WACZ,OACE","file":"static/js/172.d00ca134.chunk.js","sourcesContent":["import React from 'react'\n\nconst index = () => {\n  return (\n    <div>index</div>\n  )\n}\n\nexport default index"],"sourceRoot":""}
